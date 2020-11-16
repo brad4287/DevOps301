@@ -10,7 +10,7 @@
 
 ### Lets clone our newly create Repo. 
 ```
-git clone https://github.com/amitvashisttech/devops301-mindtree-17Oct2020.git
+git clone git@github.com:brad4287/DevOps301.git
 ```
 
 ### Go inside the Repo & Create your first commit
@@ -26,8 +26,8 @@ git log
 
 ### Git Global Configuration 
 ```
-git config --global user.name "Amit Vashist"
-git config --global user.email "amitvashist7@outlook.com"
+git config --global user.name "Brad"
+git config --global user.email "Brad4287@gmail.com"
 git config --list
 git config --global core.editor vi
 ```
